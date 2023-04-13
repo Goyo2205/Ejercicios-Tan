@@ -1,0 +1,31 @@
+body{
+    background-image: url(https://images.pexels.com/photos/13430473/pexels-photo-13430473.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: sans-serif;
+    padding: 20px;
+    background-position:  center;
+}
+h1{
+    text-align: center;
+}
+.contenedor1{
+    font-family: sans-serif;
+    background-color: brown;
+    color: aliceblue;
+    display: flex;
+    height: fit-content;
+
+}
+.perrito{
+    justify-self: flex-start;
+    left: 0px;
+}
+.titulo{
+    align-self: center;
+    justify-self: center;
+    padding-left: 480px;
+}
+h1{
+    font-size: 50px;
+}
